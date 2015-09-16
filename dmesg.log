@@ -1,0 +1,2 @@
+[81571.693331] usb 4-1.1: new full-speed USB device number 29 using ehci-pci
+[81571.784195] hid-generic 0003:096E:0880.0115: hiddev0,hidraw0: USB HID v1.10 Device [HS HyperFIDO Token] on usb-0000:00:1d.0-1.1/input0
