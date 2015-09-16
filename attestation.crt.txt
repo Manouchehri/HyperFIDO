@@ -1,0 +1,36 @@
+Attestation Certificate
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+             (Negative)79:98:8a:6b:69:9a:8a:a6:97:fc
+    Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=FT FIDO 0100
+        Validity
+            Not Before: Aug 14 18:29:32 2014 GMT
+            Not After : Aug 14 18:29:32 2024 GMT
+        Subject: CN=PilotGnubby-0.4.1-86677594966575596804
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (256 bit)
+                pub: 
+                    04:26:dd:f0:6e:dc:df:fd:81:e4:88:c9:8d:06:50:
+                    f2:e9:1c:8d:22:7c:fa:56:47:36:bc:1e:a2:10:62:
+                    76:d6:f5:81:e8:2d:27:6e:1a:d0:c3:51:12:66:85:
+                    2a:d9:a1:75:2e:13:36:ad:a1:55:27:9e:1c:cd:b1:
+                    ae:83:86:83:eb
+                ASN1 OID: prime256v1
+    Signature Algorithm: ecdsa-with-SHA256
+         30:44:02:20:c8:a7:89:c3:79:1d:a6:2e:76:78:41:f9:b5:e2:
+         e0:9a:68:b1:9e:9d:6c:77:7f:af:cb:f3:76:a8:bf:cb:7d:6d:
+         02:20:32:44:75:9b:a6:f3:25:af:a8:99:4e:96:a5:2a:f7:da:
+         75:e1:19:eb:e7:53:cf:64:91:81:37:4e:99:c2:69:0c
+-----BEGIN CERTIFICATE-----
+MIIBPDCB5KADAgECAgqGZ3WUlmV1WWgEMAoGCCqGSM49BAMCMBcxFTATBgNVBAMT
+DEZUIEZJRE8gMDEwMDAeFw0xNDA4MTQxODI5MzJaFw0yNDA4MTQxODI5MzJaMDEx
+LzAtBgNVBAMTJlBpbG90R251YmJ5LTAuNC4xLTg2Njc3NTk0OTY2NTc1NTk2ODA0
+MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEJt3wbtzf/YHkiMmNBlDy6RyNInz6
+Vkc2vB6iEGJ21vWB6C0nbhrQw1ESZoUq2aF1LhM2raFVJ54czbGug4aD6zAKBggq
+hkjOPQQDAgNHADBEAiDIp4nDeR2mLnZ4Qfm14uCaaLGenWx3f6/L83aov8t9bQIg
+MkR1m6bzJa+omU6WpSr32nXhGevnU89kkYE3TpnCaQw=
+-----END CERTIFICATE-----
